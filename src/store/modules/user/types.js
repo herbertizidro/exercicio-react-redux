@@ -1,8 +1,8 @@
 
-//registro de tipos do modulo shop
+//registro de tipos do modulo user
 
 const types = {
-	SET_USER: "@shop/SET_USER"
+	SET_USER: "@user/SET_USER"
 }
 
 export default types;
